@@ -11,9 +11,7 @@ Meu Portfólio de Projetos Data Science
 # Maria Júlia Letro
 <sub>*Data Scientist* </sub>
 
-OBS: Local para descrever as experiencias
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Estou aprendendo Data Science
 
 **Link:**
 * [LinkedIn](https://www.linkedin.com/in/mariajulialetro/)
@@ -21,9 +19,9 @@ OBS: Local para descrever as experiencias
 
 
 ## Projetos:
-Exemplo:
-OBS: Ainda não tenho projetos. Portfólio em construção...
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
+Portfólio em construção...
+Assisti uma aula e fiz o projeto igual ao do professor, porém digitando cada código para melhor fixação. Segue abaixo:
+* **Data Science: Análise dos Dados do Airbnb - Rio de Janeiro:** https://colab.research.google.com/drive/1ewUEfXDfpK-h0lM9rF1UbnbHp1QiCJeT#scrollTo=alcR6PKFHz0F
 
 ---
 
