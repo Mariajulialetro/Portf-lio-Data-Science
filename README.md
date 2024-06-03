@@ -23,6 +23,8 @@ Portfólio em construção...
 Assisti uma aula e fiz o projeto igual ao do professor, porém digitando cada código para melhor fixação. Segue abaixo:
 * **Data Science: Análise dos Dados do Airbnb - Rio de Janeiro:** https://colab.research.google.com/drive/1ewUEfXDfpK-h0lM9rF1UbnbHp1QiCJeT#scrollTo=alcR6PKFHz0F
 
+* Abaixo segue alguns aprendizados:
+* **Apredendo Gráfico de Linha:** https://colab.research.google.com/drive/1VshrVhb7NYmb-h4KEWdQTRT5ln4MBYtT
 ---
 
 
