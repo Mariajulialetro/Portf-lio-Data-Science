@@ -25,6 +25,7 @@ Assisti uma aula e fiz o projeto igual ao do professor, porém digitando cada c�
 
 * Abaixo segue alguns aprendizados:
 * **Apredendo Gráfico de Linha:** https://colab.research.google.com/drive/1VshrVhb7NYmb-h4KEWdQTRT5ln4MBYtT
+* **Conceitos básicos de Estatística para Ciencia de Dados:** https://colab.research.google.com/drive/152Rbqz7R9qbqNMW-q3EVXO2SDnU8knPr
 ---
 
 
